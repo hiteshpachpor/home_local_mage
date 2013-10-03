@@ -1,1 +1,4 @@
-.main-container { background: #333; }
+/*.main-container { background: #333; }*/
+.col-main, .col-left, .col-right, .block, .header, .footer, .page-title, .block .block-title { border: none; }
+a, a:visited { text-decoration: none; color: #212121; font-weight: bold; }
+a:hover, a:active { text-decoration: underline; color: #442211; }
