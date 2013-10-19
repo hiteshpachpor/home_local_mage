@@ -105,3 +105,6 @@ skin/frontend/default/modern/
 skin/frontend/enterprise
 skin/install/
 var/
+media/catalog
+.htacess
+app/etc/local.xml
